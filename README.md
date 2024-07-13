@@ -1,6 +1,6 @@
 ## Hi there!👋 I'm Artur. I'm student of Front-End and Full-stack.👨‍🎓 I am currently making just first steps in IT.💻
 - 🔭 I’m currently working on my own portfolio.👨‍💻
-- 🌱 I’m currently learning and improving my tech skills in HTML, CSS, Javascript, Typescript, Node.js, React technologies.
+- 🌱 I’m currently learning and improving my tech skills in HTML, CSS, JavaScript, Typescript, Node.js, React, AJAX technologies.
 - 📫 How to reach me: [<img src="https://img.shields.io/badge/Gmail-DCDCDC?style=flat&logo=google&logoColor=B22222&">](mailto:"stoianovart@gmail.com"/ "Gmail") [<img src="https://img.shields.io/badge/Telegram-4682B4?style=flat&logo=telegram&logoColor=white&">](https://t.me/stoianovart/ "Telegram") [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&">](https://linkedin.com/in/artur-stoianov/ "LinkedIn")
 <br>
 
