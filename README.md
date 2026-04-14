@@ -18,8 +18,7 @@
 
 #### Frontend
 <img src="https://img.shields.io/badge/HTML-181717?style=flat&logo=html5&logoColor=E34F26&">
-<img src="https://img.shields.io/badge/CSS-181717?style=flat&logo=css3&logoColor=1572B6&">
-<img src="https://img.shields.io/badge/SCSS-181717?style=flat&logo=sass&logoColor=CC6699&">
+<img src="https://img.shields.io/badge/CSS/SCSS-181717?style=flat&logo=sass&logoColor=CC6699&">
 <img src="https://img.shields.io/badge/JavaScript-181717?style=flat&logo=javascript&logoColor=gold&">
 <img src="https://img.shields.io/badge/TypeScript-181717?style=flat&logo=typescript&logoColor=3178C6&">
 <img src="https://img.shields.io/badge/React-181717?style=flat&logo=react&logoColor=61DAFB&">
