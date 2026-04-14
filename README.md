@@ -23,6 +23,11 @@
 <img src="https://img.shields.io/badge/TypeScript-181717?style=flat&logo=typescript&logoColor=3178C6&">
 <img src="https://img.shields.io/badge/React-181717?style=flat&logo=react&logoColor=61DAFB&">
 
+#### State Management
+<img src="https://img.shields.io/badge/Redux_Toolkit-181717?style=flat&logo=redux&logoColor=764ABC&">
+<img src="https://img.shields.io/badge/RTK_Query-181717?style=flat&logo=redux&logoColor=764ABC&">
+<img src="https://img.shields.io/badge/Zustand-181717?style=flat&logo=react&logoColor=white&">
+
 #### Backend
 <img src="https://img.shields.io/badge/Node.js-181717?style=flat&logo=node.js&logoColor=339933&">
 <img src="https://img.shields.io/badge/MySQL-181717?style=flat&logo=mysql&logoColor=4479A1&">
